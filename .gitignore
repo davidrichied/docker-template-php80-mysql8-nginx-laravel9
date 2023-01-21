@@ -29,4 +29,4 @@ _ide_helper.php
 /laravel/storage/medialibrary/temp/
 /laravel/.cache/
 .bash_history
-/docker/data/mysql/*
+/docker/data/db/mysql/*
